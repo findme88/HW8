@@ -65,16 +65,15 @@ section p {
 .smile {
   width: 80px;
   height: 80px;
-  background: grey;
-  border: 3px solid green;
+  background: rgb(128, 128, 128, 0.6);
+  border: 3px solid #30b2b4;
   border-radius: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  opacity: 70%;
   color: aliceblue;
   position: absolute;
   right: 400px;
-  top: 35px ;
+  top: 35px;
   font-size: 34px;
 }
